@@ -1,6 +1,6 @@
 # Copyright (C) 2014 Intel Corporation
 #
-# Released under the MIT license (see COPYING.MIT)
+# SPDX-License-Identifier: MIT
 
 # This module adds support to testimage.bbclass to deploy images and run
 # tests on a Generic PC that boots using grub bootloader. The device must
